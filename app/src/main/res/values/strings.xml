@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiaryAPP</string>
+    <string name="proceed_to_write_your_diary">Proceed to write your diary</string>
+    <string name="todo">TODO</string>
+    <string name="how_s_your_mood">How\'s your mood?</string>
+    <string name="todoo">TODO</string>
+</resources>
